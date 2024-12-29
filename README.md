@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush78912&label=Profile%20views&color=0e75b6&style=flat" alt="piyush78912" /> </p>
 
-- 🌱 I’m currently learning **Backend Frameworks**
+- 🌱 I’m currently learning **modern full-stack development frameworks, including Spring Boot for backend and React for frontend.**
 
 - 💬 Ask me about **JavaScript, React, Java, C, Python**
 
