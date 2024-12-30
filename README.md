@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **khatripiyush547@gmail.com**
 
-- ⚡ Fun fact **My favorite programming language is Java, but my second favorite is ‘CTRL + Z'/**
+- ⚡ Fun fact **My favorite programming language is Java, but my second favorite is ‘CTRL + Z'**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
