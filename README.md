@@ -24,7 +24,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Piyush Khatri"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Piyush Khatri" /></a></p><br><br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piyush78912&show_icons=true&locale=en" alt="piyush78912" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyush78912&" alt="piyush78912" /></p>
